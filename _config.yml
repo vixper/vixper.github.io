@@ -5,7 +5,7 @@ description: Bookmark this to keep an eye on my project updates!
 # GitHub Pages imposta automaticamente queste variabili se usi il tema nativo,
 # ma puoi personalizzarle o integrarle:
 show_downloads: false # Imposta a true o false per mostrare/nascondere i bottoni di download (se applicabile)
-logo: assets/umg/vixper.png
+logo: assets/img/vixper.png
 
 # Se vuoi forzare i link ai pulsanti del tema (es. per mostrare "Visualizza su GitHub")
 github:
