@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background-color: #2B323B;
+    color: #d3e0d1;
+}
+
 a {
     color: #2AE83C;
+
+    &:hover, &:focus, &:visited {
+        color: #168a22;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #d3e0d1;
 }
